@@ -1,0 +1,1423 @@
+{
+  "name": "MIT OpenCourseWare",
+  "children": [
+    {
+      "name": "1",
+      "title": "Civil and Environmental Engineering",
+      "children": [
+        {
+          "name": "00",
+          "title": "Introduction To Computers And Engineering Problem Solving",
+          "semester": "Spring",
+          "year": "2012",
+          "url": "https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/"
+        },
+        {
+          "name": "010",
+          "title": "Uncertainty In Engineering",
+          "semester": "Fall",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/1-010-uncertainty-in-engineering-fall-2008/"
+        },
+        {
+          "name": "011",
+          "title": "Project Evaluation",
+          "semester": "Spring",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/1-011-project-evaluation-spring-2011/"
+        },
+        {
+          "name": "012",
+          "title": "Introduction To Civil Engineering Design",
+          "semester": "Spring",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/1-012-introduction-to-civil-engineering-design-spring-2002/"
+        },
+        {
+          "name": "017",
+          "title": "Computing And Data Analysis For Environmental Applications",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/"
+        },
+        {
+          "name": "018j",
+          "title": "Ecology I The Earth System",
+          "semester": "Fall",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/1-018j-ecology-i-the-earth-system-fall-2009/"
+        },
+        {
+          "name": "020",
+          "title": "Ecology Ii Engineering For Sustainability",
+          "semester": "Spring",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/"
+        },
+        {
+          "name": "022",
+          "title": "Introduction To Network Models",
+          "semester": "Fall",
+          "year": "2018",
+          "url": "https://ocw.mit.edu/courses/1-022-introduction-to-network-models-fall-2018/"
+        },
+        {
+          "name": "033",
+          "title": "Mechanics Of Material Systems An Energy Approach",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/"
+        },
+        {
+          "name": "040",
+          "title": "Project Management",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2004/"
+        },
+        {
+          "name": "040",
+          "title": "Project Management",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/1-040-project-management-spring-2009/"
+        },
+        {
+          "name": "050",
+          "title": "Engineering Mechanics I",
+          "semester": "Fall",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/"
+        },
+        {
+          "name": "050",
+          "title": "Solid Mechanics",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/1-050-solid-mechanics-fall-2004/"
+        },
+        {
+          "name": "051",
+          "title": "Structural Engineering Design",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/1-051-structural-engineering-design-fall-2003/"
+        },
+        {
+          "name": "054",
+          "title": "Mechanics And Design Of Concrete Structures",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/"
+        },
+        {
+          "name": "060",
+          "title": "Engineering Mechanics Ii",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/1-060-engineering-mechanics-ii-spring-2006/"
+        },
+        {
+          "name": "061",
+          "title": "Transport Processes In The Environment",
+          "semester": "Fall",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/1-061-transport-processes-in-the-environment-fall-2008/"
+        },
+        {
+          "name": "101",
+          "title": "Introduction To Civil And Environmental Engineering Design I",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/"
+        },
+        {
+          "name": "101",
+          "title": "Introduction To Civil And Environmental Engineering Design I",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/"
+        },
+        {
+          "name": "103",
+          "title": "Civil Engineering Materials Laboratory",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/1-103-civil-engineering-materials-laboratory-spring-2004/"
+        },
+        {
+          "name": "105",
+          "title": "Solid Mechanics Laboratory",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/1-105-solid-mechanics-laboratory-fall-2003/"
+        },
+        {
+          "name": "124j",
+          "title": "Foundations Of Software Engineering",
+          "semester": "Fall",
+          "year": "2000",
+          "url": "https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/"
+        },
+        {
+          "name": "133",
+          "title": "Masters Of Engineering Concepts Of Engineering Practice",
+          "semester": "Fall",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/"
+        },
+        {
+          "name": "151",
+          "title": "Probability And Statistics In Engineering",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/1-151-probability-and-statistics-in-engineering-spring-2005/"
+        }
+      ]
+    },
+    {
+      "name": "10",
+      "title": "Chemical Engineering",
+      "children": [
+        {
+          "name": "01",
+          "title": "Ethics For Engineers Artificial Intelligence",
+          "semester": "Spring",
+          "year": "2020",
+          "url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/"
+        },
+        {
+          "name": "302",
+          "title": "Transport Processes",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/10-302-transport-processes-fall-2004/"
+        },
+        {
+          "name": "32",
+          "title": "Separation Processes",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/10-32-separation-processes-spring-2005/"
+        },
+        {
+          "name": "34",
+          "title": "Numerical Methods Applied To Chemical Engineering",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/"
+        },
+        {
+          "name": "34",
+          "title": "Numerical Methods Applied To Chemical Engineering",
+          "semester": "Fall",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/"
+        },
+        {
+          "name": "37",
+          "title": "Chemical And Biological Reaction Engineering",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/"
+        },
+        {
+          "name": "40",
+          "title": "Chemical Engineering Thermodynamics",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/10-40-chemical-engineering-thermodynamics-fall-2003/"
+        },
+        {
+          "name": "442",
+          "title": "Biochemical Engineering",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/10-442-biochemical-engineering-spring-2005/"
+        },
+        {
+          "name": "445",
+          "title": "Separation Processes For Biochemical Products",
+          "semester": "Summer",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/10-445-separation-processes-for-biochemical-products-summer-2005/"
+        },
+        {
+          "name": "450",
+          "title": "Process Dynamics Operations And Control",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-450-process-dynamics-operations-and-control-spring-2006/"
+        },
+        {
+          "name": "467",
+          "title": "Polymer Science Laboratory",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/10-467-polymer-science-laboratory-fall-2005/"
+        },
+        {
+          "name": "490",
+          "title": "Integrated Chemical Engineering I",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-490-integrated-chemical-engineering-i-fall-2006/"
+        },
+        {
+          "name": "491",
+          "title": "Integrated Chemical Engineering Ii",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-491-integrated-chemical-engineering-ii-spring-2006/"
+        },
+        {
+          "name": "492",
+          "title": "1 Integrated Chemical Engineering Topics I Process Control By Design",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/"
+        },
+        {
+          "name": "492",
+          "title": "2 Integrated Chemical Engineering Topics I Introduction To Biocatalysis",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/"
+        },
+        {
+          "name": "520",
+          "title": "Molecular Aspects Of Chemical Engineering",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/"
+        },
+        {
+          "name": "52",
+          "title": "Mechanics Of Fluids",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-52-mechanics-of-fluids-spring-2006/"
+        },
+        {
+          "name": "569",
+          "title": "Synthesis Of Polymers",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-569-synthesis-of-polymers-fall-2006/"
+        },
+        {
+          "name": "571j",
+          "title": "Atmospheric Physics And Chemistry",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/"
+        },
+        {
+          "name": "626",
+          "title": "Electrochemical Energy Systems",
+          "semester": "Spring",
+          "year": "2014",
+          "url": "https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/"
+        },
+        {
+          "name": "675j",
+          "title": "Computational Quantum Mechanics Of Molecular And Extended Systems",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/"
+        },
+        {
+          "name": "805j",
+          "title": "Technology Law And The Working Environment",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/10-805j-technology-law-and-the-working-environment-spring-2006/"
+        }
+      ]
+    },
+    {
+      "name": "11",
+      "title": "Urban Studies and Planning",
+      "children": [
+        {
+          "name": "001j",
+          "title": "Introduction To Urban Design And Development",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/"
+        },
+        {
+          "name": "002j",
+          "title": "Making Public Policy",
+          "semester": "Fall",
+          "year": "2014",
+          "url": "https://ocw.mit.edu/courses/11-002j-making-public-policy-fall-2014/"
+        },
+        {
+          "name": "003j",
+          "title": "Methods Of Policy Analysis",
+          "semester": "Spring",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-003j-methods-of-policy-analysis-spring-2016/"
+        },
+        {
+          "name": "005",
+          "title": "Introduction To International Development",
+          "semester": "Spring",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-005-introduction-to-international-development-spring-2015/"
+        },
+        {
+          "name": "006",
+          "title": "Poverty And Economic Security",
+          "semester": "Fall",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-006-poverty-and-economic-security-fall-2016/"
+        },
+        {
+          "name": "007",
+          "title": "Resolving Public Disputes",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-007-resolving-public-disputes-spring-2005/"
+        },
+        {
+          "name": "011",
+          "title": "The Art And Science Of Negotiation",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-011-the-art-and-science-of-negotiation-spring-2006/"
+        },
+        {
+          "name": "013j",
+          "title": "American Urban History I",
+          "semester": "Spring",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-013j-american-urban-history-i-spring-2010/"
+        },
+        {
+          "name": "014j",
+          "title": "American Urban History Ii",
+          "semester": "Fall",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-014j-american-urban-history-ii-fall-2011/"
+        },
+        {
+          "name": "016j",
+          "title": "The Once And Future City",
+          "semester": "Spring",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-016j-the-once-and-future-city-spring-2015/"
+        },
+        {
+          "name": "020",
+          "title": "Poverty Public Policy And Controversy",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-020-poverty-public-policy-and-controversy-fall-2003/"
+        },
+        {
+          "name": "027",
+          "title": "City To City Comparing Researching And Writing About Cities New Orleans",
+          "semester": "Spring",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/"
+        },
+        {
+          "name": "027",
+          "title": "City To City Comparing Researching And Writing About Cities",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-spring-2006/"
+        },
+        {
+          "name": "027",
+          "title": "Global Cityscope Disaster Planning And Post Disaster Rebuilding And Recovery",
+          "semester": "Spring",
+          "year": "2017",
+          "url": "https://ocw.mit.edu/courses/11-027-global-cityscope-disaster-planning-and-post-disaster-rebuilding-and-recovery-spring-2017/"
+        },
+        {
+          "name": "122",
+          "title": "Environment And Society",
+          "semester": "Fall",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-122-environment-and-society-fall-2002/"
+        },
+        {
+          "name": "123",
+          "title": "Big Plans And Mega Urban Landscapes",
+          "semester": "Spring",
+          "year": "2014",
+          "url": "https://ocw.mit.edu/courses/11-123-big-plans-and-mega-urban-landscapes-spring-2014/"
+        },
+        {
+          "name": "124",
+          "title": "Introduction To Education Looking Forward And Looking Back On Education",
+          "semester": "Fall",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/"
+        },
+        {
+          "name": "125",
+          "title": "Introduction To Education Understanding And Evaluating Education",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/"
+        },
+        {
+          "name": "126j",
+          "title": "Economics Of Education",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-126j-economics-of-education-spring-2007/"
+        },
+        {
+          "name": "127j",
+          "title": "Computer Games And Simulations For Education And Exploration",
+          "semester": "Spring",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/"
+        },
+        {
+          "name": "128",
+          "title": "Information Technology And The Labor Market",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-128-information-technology-and-the-labor-market-spring-2005/"
+        },
+        {
+          "name": "129",
+          "title": "Educational Theory And Practice I",
+          "semester": "Fall",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-129-educational-theory-and-practice-i-fall-2011/"
+        },
+        {
+          "name": "131",
+          "title": "Educational Theory And Practice Iii",
+          "semester": "Spring",
+          "year": "2012",
+          "url": "https://ocw.mit.edu/courses/11-131-educational-theory-and-practice-iii-spring-2012/"
+        },
+        {
+          "name": "139",
+          "title": "The City In Film",
+          "semester": "Spring",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-139-the-city-in-film-spring-2015/"
+        },
+        {
+          "name": "164",
+          "title": "Human Rights At Home And Abroad",
+          "semester": "Fall",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-164-human-rights-at-home-and-abroad-fall-2015/"
+        },
+        {
+          "name": "165",
+          "title": "Infrastructure And Energy Technology Challenges",
+          "semester": "Fall",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-165-infrastructure-and-energy-technology-challenges-fall-2011/"
+        },
+        {
+          "name": "166",
+          "title": "Law Social Movements And Public Policy Comparative And International Experience",
+          "semester": "Spring",
+          "year": "2012",
+          "url": "https://ocw.mit.edu/courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/"
+        },
+        {
+          "name": "167",
+          "title": "Economic Development Technical Capabilities",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-167-economic-development-technical-capabilities-spring-2004/"
+        },
+        {
+          "name": "201",
+          "title": "Gateway Planning Action",
+          "semester": "Fall",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-201-gateway-planning-action-fall-2002/"
+        },
+        {
+          "name": "201",
+          "title": "Gateway Planning Action",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-201-gateway-planning-action-fall-2005/"
+        },
+        {
+          "name": "201",
+          "title": "Gateway Planning Action",
+          "semester": "Fall",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-201-gateway-planning-action-fall-2007/"
+        },
+        {
+          "name": "201",
+          "title": "Gateway To The Profession Of Planning",
+          "semester": "Fall",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-201-gateway-to-the-profession-of-planning-fall-2010/"
+        },
+        {
+          "name": "202",
+          "title": "Planning Economics",
+          "semester": "Fall",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-202-planning-economics-fall-2010/"
+        },
+        {
+          "name": "203",
+          "title": "Microeconomics",
+          "semester": "Fall",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-203-microeconomics-fall-2010/"
+        },
+        {
+          "name": "204",
+          "title": "Planning Communications And Digital Media",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-204-planning-communications-and-digital-media-fall-2004/"
+        },
+        {
+          "name": "205",
+          "title": "Introduction To Spatial Analysis",
+          "semester": "Fall",
+          "year": "2019",
+          "url": "https://ocw.mit.edu/courses/11-205-introduction-to-spatial-analysis-fall-2019/"
+        },
+        {
+          "name": "208",
+          "title": "Introduction To Computers In Public Management Ii January",
+          "semester": "Iap",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-208-introduction-to-computers-in-public-management-ii-january-iap-2002/"
+        },
+        {
+          "name": "220",
+          "title": "Quantitative Reasoning Statistical Methods For Planners I",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-220-quantitative-reasoning-statistical-methods-for-planners-i-spring-2009/"
+        },
+        {
+          "name": "225",
+          "title": "Argumentation And Communication",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-225-argumentation-and-communication-fall-2006/"
+        },
+        {
+          "name": "229",
+          "title": "Advanced Writing Seminar",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-229-advanced-writing-seminar-spring-2004/"
+        },
+        {
+          "name": "233",
+          "title": "Crafting Research Questions And Qualitative Methodology",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-233-crafting-research-questions-and-qualitative-methodology-fall-2005/"
+        },
+        {
+          "name": "233",
+          "title": "Research Design For Policy Analysis And Planning",
+          "semester": "Fall",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-233-research-design-for-policy-analysis-and-planning-fall-2007/"
+        },
+        {
+          "name": "235",
+          "title": "Analyzing Projects And Organizations",
+          "semester": "Fall",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-235-analyzing-projects-and-organizations-fall-2009/"
+        },
+        {
+          "name": "237",
+          "title": "Practice Of Participatory Action Research Par",
+          "semester": "Spring",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-237-practice-of-participatory-action-research-par-spring-2016/"
+        },
+        {
+          "name": "301j",
+          "title": "Introduction To Urban Design And Development",
+          "semester": "Fall",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/"
+        },
+        {
+          "name": "302j",
+          "title": "Urban Design Politics",
+          "semester": "Spring",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-302j-urban-design-politics-spring-2010/"
+        },
+        {
+          "name": "304j",
+          "title": "Site And Infrastructure Systems Planning",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/"
+        },
+        {
+          "name": "307",
+          "title": "Beijing Urban Design Studio",
+          "semester": "Summer",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2006/"
+        },
+        {
+          "name": "307",
+          "title": "Beijing Urban Design Studio",
+          "semester": "Summer",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/11-307-beijing-urban-design-studio-summer-2008/"
+        },
+        {
+          "name": "308j",
+          "title": "Advanced Seminar Urban Nature And City Design",
+          "semester": "Fall",
+          "year": "2012",
+          "url": "https://ocw.mit.edu/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/"
+        },
+        {
+          "name": "309j",
+          "title": "Sensing Place Photography As Inquiry",
+          "semester": "Fall",
+          "year": "2012",
+          "url": "https://ocw.mit.edu/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/"
+        },
+        {
+          "name": "309j",
+          "title": "Sites In Sight Photography As Inquiry",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/"
+        },
+        {
+          "name": "310j",
+          "title": "Media Technology And City Design And Development",
+          "semester": "Fall",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/"
+        },
+        {
+          "name": "310j",
+          "title": "Media Technology And City Design And Development",
+          "semester": "Spring",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/"
+        },
+        {
+          "name": "312",
+          "title": "Engaging Community Models And Methods For Designers And Planners",
+          "semester": "Spring",
+          "year": "2020",
+          "url": "https://ocw.mit.edu/courses/11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020/"
+        },
+        {
+          "name": "328j",
+          "title": "Urban Design Skills Observing Interpreting And Representing The City",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/"
+        },
+        {
+          "name": "329",
+          "title": "Social Theory And The City",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-329-social-theory-and-the-city-fall-2005/"
+        },
+        {
+          "name": "332j",
+          "title": "Urban Design",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-332j-urban-design-fall-2003/"
+        },
+        {
+          "name": "333",
+          "title": "Urban Design Seminar",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2005/"
+        },
+        {
+          "name": "333",
+          "title": "Urban Design Seminar",
+          "semester": "Spring",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-333-urban-design-seminar-spring-2016/"
+        },
+        {
+          "name": "337j",
+          "title": "Urban Design Policy And Action",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2007/"
+        },
+        {
+          "name": "337j",
+          "title": "Urban Design Policy And Action",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-337j-urban-design-policy-and-action-spring-2009/"
+        },
+        {
+          "name": "360",
+          "title": "Community Growth And Land Use Planning",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2003/"
+        },
+        {
+          "name": "360",
+          "title": "Community Growth And Land Use Planning",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2005/"
+        },
+        {
+          "name": "360",
+          "title": "Community Growth And Land Use Planning",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2006/"
+        },
+        {
+          "name": "360",
+          "title": "Community Growth And Land Use Planning",
+          "semester": "Fall",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-360-community-growth-and-land-use-planning-fall-2010/"
+        },
+        {
+          "name": "362",
+          "title": "Environmental Management Practicum Brownfield Redevelopment",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/"
+        },
+        {
+          "name": "363",
+          "title": "Civil Society And The Environment",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-363-civil-society-and-the-environment-spring-2005/"
+        },
+        {
+          "name": "364",
+          "title": "International Environmental Negotiation",
+          "semester": "Fall",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010/"
+        },
+        {
+          "name": "366j",
+          "title": "Planning For Sustainable Development",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-366j-planning-for-sustainable-development-spring-2006/"
+        },
+        {
+          "name": "368",
+          "title": "Environmental Justice",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-368-environmental-justice-fall-2004/"
+        },
+        {
+          "name": "368",
+          "title": "Environmental Justice Law And Policy",
+          "semester": "Fall",
+          "year": "2019",
+          "url": "https://ocw.mit.edu/courses/11-368-environmental-justice-law-and-policy-fall-2019/"
+        },
+        {
+          "name": "370",
+          "title": "Brownfields Policy And Practice",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/"
+        },
+        {
+          "name": "373",
+          "title": "Science Politics And Environmental Policy",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-373-science-politics-and-environmental-policy-fall-2004/"
+        },
+        {
+          "name": "375",
+          "title": "Role Of Science And Scientists In Collaborative Approaches To Environmental Policymaking",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/"
+        },
+        {
+          "name": "382",
+          "title": "Water Diplomacy",
+          "semester": "Spring",
+          "year": "2021",
+          "url": "https://ocw.mit.edu/courses/11-382-water-diplomacy-spring-2021/"
+        },
+        {
+          "name": "384",
+          "title": "Malaysia Sustainable Cities Practicum",
+          "semester": "Spring",
+          "year": "2018",
+          "url": "https://ocw.mit.edu/courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/"
+        },
+        {
+          "name": "401",
+          "title": "Introduction To Housing Community And Economic Development",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2003/"
+        },
+        {
+          "name": "401",
+          "title": "Introduction To Housing Community And Economic Development",
+          "semester": "Fall",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/"
+        },
+        {
+          "name": "405",
+          "title": "Just Money Banking As If Society Mattered",
+          "semester": "Spring",
+          "year": "2021",
+          "url": "https://ocw.mit.edu/courses/11-405-just-money-banking-as-if-society-mattered-spring-2021/"
+        },
+        {
+          "name": "409",
+          "title": "Institutions Of Modern Capitalism",
+          "semester": "Spring",
+          "year": "2020",
+          "url": "https://ocw.mit.edu/courses/11-409-institutions-of-modern-capitalism-spring-2020/"
+        },
+        {
+          "name": "421",
+          "title": "Housing And Human Services",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-421-housing-and-human-services-spring-2005/"
+        },
+        {
+          "name": "422",
+          "title": "Downtown Management Organizations",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-422-downtown-management-organizations-fall-2006/"
+        },
+        {
+          "name": "423",
+          "title": "Information And Communication Technologies In Community Development",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/"
+        },
+        {
+          "name": "431j",
+          "title": "Real Estate Finance And Investment",
+          "semester": "Fall",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-431j-real-estate-finance-and-investment-fall-2006/"
+        },
+        {
+          "name": "432j",
+          "title": "Real Estate Capital Markets",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-432j-real-estate-capital-markets-spring-2007/"
+        },
+        {
+          "name": "433j",
+          "title": "Real Estate Economics",
+          "semester": "Fall",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/11-433j-real-estate-economics-fall-2008/"
+        },
+        {
+          "name": "434j",
+          "title": "Advanced Topics In Real Estate Finance",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/"
+        },
+        {
+          "name": "437",
+          "title": "Financing Economic Development",
+          "semester": "Fall",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-437-financing-economic-development-fall-2016/"
+        },
+        {
+          "name": "438",
+          "title": "Economic Development Planning",
+          "semester": "Spring",
+          "year": "2020",
+          "url": "https://ocw.mit.edu/courses/11-438-economic-development-planning-spring-2020/"
+        },
+        {
+          "name": "439",
+          "title": "Revitalizing Urban Main Streets Hyde Jackson Square Roslindale Square Boston",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/"
+        },
+        {
+          "name": "439",
+          "title": "Revitalizing Urban Main Streets Mission Hill Egleston Square Boston",
+          "semester": "Spring",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/"
+        },
+        {
+          "name": "439",
+          "title": "Revitalizing Urban Main Streets St Claude Avenue New Orleans",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/"
+        },
+        {
+          "name": "467j",
+          "title": "Property Rights In Transition",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-467j-property-rights-in-transition-spring-2005/"
+        },
+        {
+          "name": "469",
+          "title": "Urban Sociology In Theory And Practice",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2009/"
+        },
+        {
+          "name": "469",
+          "title": "Urban Sociology In Theory And Practice",
+          "semester": "Spring",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/"
+        },
+        {
+          "name": "471",
+          "title": "Targeting The Poor Local Economic Development In Developing Countries",
+          "semester": "Spring",
+          "year": "2010",
+          "url": "https://ocw.mit.edu/courses/11-471-targeting-the-poor-local-economic-development-in-developing-countries-spring-2010/"
+        },
+        {
+          "name": "479j",
+          "title": "Water And Sanitation Infrastructure In Developing Countries",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/"
+        },
+        {
+          "name": "479",
+          "title": "Water And Sanitation Infrastructure Planning In Developing Countries",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-479-water-and-sanitation-infrastructure-planning-in-developing-countries-spring-2005/"
+        },
+        {
+          "name": "481j",
+          "title": "Analyzing And Accounting For Regional Economic Growth",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/"
+        },
+        {
+          "name": "482j",
+          "title": "Regional Socioeconomic Impact Analyses And Modeling",
+          "semester": "Fall",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/"
+        },
+        {
+          "name": "482j",
+          "title": "Regional Socioeconomic Impact Analyses And Modeling",
+          "semester": "Fall",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/"
+        },
+        {
+          "name": "483",
+          "title": "Housing And Land Use In Rapidly Urbanizing Regions",
+          "semester": "Fall",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-483-housing-and-land-use-in-rapidly-urbanizing-regions-fall-2011/"
+        },
+        {
+          "name": "484",
+          "title": "Project Appraisal In Developing Countries",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-484-project-appraisal-in-developing-countries-spring-2005/"
+        },
+        {
+          "name": "486j",
+          "title": "Economic Institutions And Growth Policy Analysis",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/"
+        },
+        {
+          "name": "487",
+          "title": "Urban Public Finance In Developing Countries",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-487-urban-public-finance-in-developing-countries-fall-2004/"
+        },
+        {
+          "name": "488",
+          "title": "Urban Development In Conflict Cities Planning Challenges And Policy Innovations",
+          "semester": "Fall",
+          "year": "2015",
+          "url": "https://ocw.mit.edu/courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/"
+        },
+        {
+          "name": "489",
+          "title": "The Growth And Spatial Structure Of Cities",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-489-the-growth-and-spatial-structure-of-cities-fall-2005/"
+        },
+        {
+          "name": "491j",
+          "title": "Economic Development Policy Analysis And Industrialization",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-491j-economic-development-policy-analysis-and-industrialization-fall-2004/"
+        },
+        {
+          "name": "493",
+          "title": "Legal Aspects Of Property And Land Use",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-493-legal-aspects-of-property-and-land-use-fall-2005/"
+        },
+        {
+          "name": "501",
+          "title": "Introduction To Technology And Cities",
+          "semester": "Fall",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-501-introduction-to-technology-and-cities-fall-2002/"
+        },
+        {
+          "name": "520",
+          "title": "A Workshop On Geographic Information Systems",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/"
+        },
+        {
+          "name": "521",
+          "title": "Spatial Database Management And Advanced Geographic Information Systems",
+          "semester": "Spring",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/"
+        },
+        {
+          "name": "522",
+          "title": "Research Seminar On Urban Information Systems",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005/"
+        },
+        {
+          "name": "601",
+          "title": "Introduction To Environmental Policy And Planning",
+          "semester": "Fall",
+          "year": "2016",
+          "url": "https://ocw.mit.edu/courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/"
+        },
+        {
+          "name": "701",
+          "title": "Introduction To International Development Planning",
+          "semester": "Fall",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-701-introduction-to-international-development-planning-fall-2011/"
+        },
+        {
+          "name": "701",
+          "title": "Introduction To Planning Institutional Processes In Developing Countries",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/"
+        },
+        {
+          "name": "800",
+          "title": "Doctoral Research Seminar Knowledge In The Public Arena",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/"
+        },
+        {
+          "name": "902",
+          "title": "Advanced Urban Public Finance Collective Action And Provisions Of Local Public Goods",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-902-advanced-urban-public-finance-collective-action-and-provisions-of-local-public-goods-spring-2009/"
+        },
+        {
+          "name": "914",
+          "title": "Planning Communication",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-914-planning-communication-spring-2007/"
+        },
+        {
+          "name": "941",
+          "title": "Disaster Vulnerability And Resilience",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-941-disaster-vulnerability-and-resilience-spring-2005/"
+        },
+        {
+          "name": "941",
+          "title": "Learning By Comparison First World Third World Cities",
+          "semester": "Fall",
+          "year": "2008",
+          "url": "https://ocw.mit.edu/courses/11-941-learning-by-comparison-first-world-third-world-cities-fall-2008/"
+        },
+        {
+          "name": "941",
+          "title": "Urban Climate Adaptation",
+          "semester": "Spring",
+          "year": "2011",
+          "url": "https://ocw.mit.edu/courses/11-941-urban-climate-adaptation-spring-2011/"
+        },
+        {
+          "name": "941",
+          "title": "Use Of Joint Fact Finding In Science Intensive Policy Disputes Part I",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/"
+        },
+        {
+          "name": "942",
+          "title": "Regional Energy Environmental Economic Modeling",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-942-regional-energy-environmental-economic-modeling-spring-2007/"
+        },
+        {
+          "name": "942",
+          "title": "Use Of Joint Fact Finding In Science Intensive Policy Disputes Part Ii",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/"
+        },
+        {
+          "name": "943j",
+          "title": "Urban Transportation Land Use And The Environment",
+          "semester": "Spring",
+          "year": "2002",
+          "url": "https://ocw.mit.edu/courses/11-943j-urban-transportation-land-use-and-the-environment-spring-2002/"
+        },
+        {
+          "name": "943",
+          "title": "Special Studies In Urban Studies And Planning The Cardener River Corridor Workshop",
+          "semester": "Fall",
+          "year": "2001",
+          "url": "https://ocw.mit.edu/courses/11-943-special-studies-in-urban-studies-and-planning-the-cardener-river-corridor-workshop-fall-2001/"
+        },
+        {
+          "name": "945",
+          "title": "Katrina Practicum",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-945-katrina-practicum-spring-2006/"
+        },
+        {
+          "name": "945",
+          "title": "Springfield Studio",
+          "semester": "Fall",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-945-springfield-studio-fall-2005/"
+        },
+        {
+          "name": "945",
+          "title": "Springfield Studio",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-945-springfield-studio-spring-2004/"
+        },
+        {
+          "name": "946j",
+          "title": "Beijing Urban Design Studio",
+          "semester": "Summer",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-946j-beijing-urban-design-studio-summer-2004/"
+        },
+        {
+          "name": "946",
+          "title": "Planning In Transition Economies For Growth And Equity",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-946-planning-in-transition-economies-for-growth-and-equity-spring-2004/"
+        },
+        {
+          "name": "947",
+          "title": "History And Theory Of Historic Preservation",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-947-history-and-theory-of-historic-preservation-spring-2007/"
+        },
+        {
+          "name": "947",
+          "title": "Imaging The City The Place Of Media In City Design And Development",
+          "semester": "Fall",
+          "year": "1998",
+          "url": "https://ocw.mit.edu/courses/11-947-imaging-the-city-the-place-of-media-in-city-design-and-development-fall-1998/"
+        },
+        {
+          "name": "947",
+          "title": "New Century Cities Real Estate Digital Technology And Design",
+          "semester": "Fall",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/"
+        },
+        {
+          "name": "947",
+          "title": "Race Immigration And Planning",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-947-race-immigration-and-planning-spring-2005/"
+        },
+        {
+          "name": "947",
+          "title": "Sustainable Economic Development",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-947-sustainable-economic-development-spring-2004/"
+        },
+        {
+          "name": "947",
+          "title": "Urbanization And Development",
+          "semester": "Spring",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-947-urbanization-and-development-spring-2009/"
+        },
+        {
+          "name": "948",
+          "title": "Power Of Place Media Technology Youth And City Design And Development",
+          "semester": "Spring",
+          "year": "2001",
+          "url": "https://ocw.mit.edu/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/"
+        },
+        {
+          "name": "948",
+          "title": "The Politics Of Reconstructing Iraq",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-948-the-politics-of-reconstructing-iraq-spring-2005/"
+        },
+        {
+          "name": "949",
+          "title": "Cities In Conflict Theory And Practice",
+          "semester": "Fall",
+          "year": "2003",
+          "url": "https://ocw.mit.edu/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/"
+        },
+        {
+          "name": "949",
+          "title": "City Visions Past And Future",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-949-city-visions-past-and-future-spring-2004/"
+        },
+        {
+          "name": "950",
+          "title": "Citizen Participation Community Development And Urban Governance In The Developing World",
+          "semester": "Spring",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-950-citizen-participation-community-development-and-urban-governance-in-the-developing-world-spring-2007/"
+        },
+        {
+          "name": "952",
+          "title": "Foshan China Workshop",
+          "semester": "Spring",
+          "year": "2004",
+          "url": "https://ocw.mit.edu/courses/11-952-foshan-china-workshop-spring-2004/"
+        },
+        {
+          "name": "952",
+          "title": "Gaoming Studio China",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-952-gaoming-studio-china-spring-2005/"
+        },
+        {
+          "name": "953",
+          "title": "Comparative Land Use And Transportation Planning",
+          "semester": "Spring",
+          "year": "2006",
+          "url": "https://ocw.mit.edu/courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/"
+        },
+        {
+          "name": "954",
+          "title": "Community Owned Enterprise And Civic Participation",
+          "semester": "Spring",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/"
+        },
+        {
+          "name": "957",
+          "title": "Frameworks Of Urban Governance January",
+          "semester": "Iap",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-957-frameworks-of-urban-governance-january-iap-2007/"
+        },
+        {
+          "name": "958",
+          "title": "Getting Things Implemented Strategy People Performance And Leadership January",
+          "semester": "Iap",
+          "year": "2009",
+          "url": "https://ocw.mit.edu/courses/11-958-getting-things-implemented-strategy-people-performance-and-leadership-january-iap-2009/"
+        },
+        {
+          "name": "959",
+          "title": "Reforming Natural Resources Governance Failings Of Scientific Rationalism And Alternatives For Building Common Ground January",
+          "semester": "Iap",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/"
+        },
+        {
+          "name": "965",
+          "title": "Reflective Practice An Approach For Expanding Your Learning Frontiers January",
+          "semester": "Iap",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/"
+        },
+        {
+          "name": "967",
+          "title": "Special Studies In Urban Studies And Planning Economic Development Planning Skills January",
+          "semester": "Iap",
+          "year": "2007",
+          "url": "https://ocw.mit.edu/courses/11-967-special-studies-in-urban-studies-and-planning-economic-development-planning-skills-january-iap-2007/"
+        },
+        {
+          "name": "969",
+          "title": "Workshop On Deliberative Democracy And Dispute Resolution",
+          "semester": "Summer",
+          "year": "2005",
+          "url": "https://ocw.mit.edu/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/"
+        }
+      ]
+    }
+  ]
+}

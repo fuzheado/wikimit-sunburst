@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - heading "MIT OpenCourseWare" [level=1] [ref=e2]
+  - paragraph [ref=e3]: Explore the hierarchy of courses by subject area. Click to zoom in, click center to zoom out.
+  - generic:
+    - heading [level=2]
+    - paragraph
+  - generic [ref=e4]:
+    - generic [ref=e5]: Civil & Environmental Engineering
+    - generic [ref=e7]: Chemical Engineering
+    - generic [ref=e9]: Urban Studies & Planning

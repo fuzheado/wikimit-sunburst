@@ -1,0 +1,106 @@
+- generic [active] [ref=e1]:
+  - heading "MIT OpenCourseWare" [level=1] [ref=e2]
+  - paragraph [ref=e3]: Explore the hierarchy of courses by subject area. Click to zoom in, click center to zoom out.
+  - generic:
+    - img:
+      - generic:
+        - generic: "11"
+        - generic: "1"
+        - generic: "10"
+        - generic: 001j
+        - generic: 002j
+        - generic: 003j
+        - generic: "005"
+        - generic: "006"
+        - generic: "007"
+        - generic: "011"
+        - generic: 013j
+        - generic: 014j
+        - generic: 016j
+        - generic: "020"
+        - generic: "027"
+        - generic: "027"
+        - generic: "027"
+        - generic: "122"
+        - generic: "123"
+        - generic: "124"
+        - generic: "125"
+        - generic: 126j
+        - generic: 127j
+        - generic: "128"
+        - generic: "129"
+        - generic: "131"
+        - generic: "139"
+        - generic: "164"
+        - generic: "165"
+        - generic: "166"
+        - generic: "167"
+        - generic: "201"
+        - generic: "201"
+        - generic: "201"
+        - generic: "201"
+        - generic: "202"
+        - generic: "203"
+        - generic: "204"
+        - generic: "205"
+        - generic: "208"
+        - generic: "220"
+        - generic: "225"
+        - generic: "229"
+        - generic: "233"
+        - generic: "233"
+        - generic: "235"
+        - generic: "237"
+        - generic: "00"
+        - generic: "010"
+        - generic: "011"
+        - generic: "012"
+        - generic: "017"
+        - generic: 018j
+        - generic: "020"
+        - generic: "022"
+        - generic: "033"
+        - generic: "040"
+        - generic: "040"
+        - generic: "050"
+        - generic: "050"
+        - generic: "051"
+        - generic: "054"
+        - generic: "060"
+        - generic: "061"
+        - generic: "101"
+        - generic: "101"
+        - generic: "103"
+        - generic: "105"
+        - generic: 124j
+        - generic: "133"
+        - generic: "151"
+        - generic: "01"
+        - generic: "302"
+        - generic: "32"
+        - generic: "34"
+        - generic: "34"
+        - generic: "37"
+        - generic: "40"
+        - generic: "442"
+        - generic: "445"
+        - generic: "450"
+        - generic: "467"
+        - generic: "490"
+        - generic: "491"
+        - generic: "492"
+        - generic: "492"
+        - generic: "520"
+        - generic: "52"
+        - generic: "569"
+        - generic: 571j
+        - generic: "626"
+        - generic: 675j
+        - generic: 805j
+  - generic:
+    - heading [level=2]
+    - paragraph
+  - generic [ref=e99]:
+    - generic [ref=e100]: Civil & Environmental Engineering
+    - generic [ref=e102]: Chemical Engineering
+    - generic [ref=e104]: Urban Studies & Planning
