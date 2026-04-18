@@ -276,7 +276,8 @@
       }
 
       function labelVisible(d) {
-        const threshold = d.depth === 1 ? 0.005 : d.depth === 2 ? 0.01 : 0.02;
+        // Show fewer labels at deeper levels to prevent overlap
+        const threshold = d.depth === 1 ? 0.008 : d.depth === 2 ? 0.04 : 0.08;
         return d.y1 <= 4 && d.y0 >= 1 && (d.y1 - d.y0) * (d.x1 - d.x0) > threshold;
       }
 
