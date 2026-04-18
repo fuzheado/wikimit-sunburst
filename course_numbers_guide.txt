@@ -1,0 +1,45 @@
+Course 1  Civil and Environmental Engineering
+Course 2  Mechanical Engineering
+Course 3  Materials Science and Engineering
+Course 4  Architecture
+Course 5  Chemistry
+Course 6  Electrical Engineering and Computer Science
+Course 7  Biology
+Course 8  Physics
+Course 9  Brain and Cognitive Sciences
+Course 10  Chemical Engineering
+Course 11  Urban Studies and Planning
+Course 12  Earth, Atmospheric, and Planetary Sciences
+Course 14  Economics
+Course 15  Management
+Course 16  Aeronautics and Astronautics
+Course 17  Political Science
+Course 18  Mathematics
+Course 20  Biological Engineering
+Course 21  Humanities
+Course 21A  Anthropology
+Course 21H  History
+Course 21G  Global Languages
+Course 21L  Literature
+Course 21M  Music
+Course 21T  Theater Arts
+Course 21W  Writing
+Course 22  Nuclear Science and Engineering
+Course 24  Linguistics and Philosophy
+AS  Aerospace Studies
+CC  Concourse
+CMS  Comparative Media Studies
+CSB  Computational and Systems Biology
+CSE  Computational Science and Engineering
+EC  Edgerton Center
+EM  Engineering Management
+ES  Experimental Study Group
+HST  Health Sciences and Technology
+IDS  Data, Systems, and Society
+MAS  Media Arts and Sciences
+MS  Military Science
+NS  Naval Science
+SCM  Supply Chain Management
+SP  Special Programs (First-Year/Alumni Internship Program | Institute-wide Discovery Subjects | Interphase | Terrascope)
+STS  Science, Technology, and Society
+WGS  Women's and Gender Studies
