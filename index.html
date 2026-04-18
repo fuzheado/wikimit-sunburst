@@ -276,13 +276,18 @@
       }
 
       function labelVisible(d) {
-        return d.y1 <= 4 && d.y0 >= 1 && (d.y1 - d.y0) * (d.x1 - d.x0) > 0.01;
+        const threshold = d.depth === 1 ? 0.005 : d.depth === 2 ? 0.01 : 0.02;
+        return d.y1 <= 4 && d.y0 >= 1 && (d.y1 - d.y0) * (d.x1 - d.x0) > threshold;
       }
 
       function labelTransform(d) {
         const x = (d.x0 + d.x1) / 2 * 180 / Math.PI;
         const y = (d.y0 + d.y1) / 2 * radius / (root.height + 1);
-        // All labels horizontal radiating outward
+        // Depth 1 (subjects): tangential
+        if (d.depth === 1) {
+          return `rotate(${x - 90}) translate(${y},0) rotate(${x < 180 ? 90 : -90})`;
+        }
+        // Depth 2 (hundred ranges) & depth 3 (classes): horizontal
         return `translate(${y},0)`;
       }
 
