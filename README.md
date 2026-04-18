@@ -1,6 +1,6 @@
 # MIT OpenCourseWare Zoomable Sunburst
 
-An interactive D3.js sunburst chart visualization of MIT OCW courses.
+An interactive D3.js sunburst chart visualization of [MIT OpenCourseWare](https://ocw.mit.edu) courses.
 
 ## Quick Start
 
