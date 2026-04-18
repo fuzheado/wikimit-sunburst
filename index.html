@@ -174,8 +174,13 @@
         .attr("dy", "0.35em")
         .attr("fill-opacity", d => +labelVisible(d.current))
         .attr("transform", d => labelTransform(d.current))
-        .text(d => d.data.name)
-        .style("font-size", "9px")
+        .text(d => {
+          if (d.depth === 3 && d.data.fullTitle) {
+            return d.data.fullTitle.length > 15 ? d.data.fullTitle.substring(0, 15) + '...' : d.data.fullTitle;
+          }
+          return d.data.name;
+        })
+        .style("font-size", "8px")
         .style("fill", "#fff");
 
       parent = svg.append("circle")
